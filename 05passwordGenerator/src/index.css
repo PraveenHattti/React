@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+  line-height: 2.5em;
+}
+
+
+
+
+
